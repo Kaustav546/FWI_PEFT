@@ -1,0 +1,6 @@
+/media/user/Transcend/OpenFWI/FlatVel_A/data/data1.npy	/media/user/Transcend/OpenFWI/FlatVel_A/model/model1.npy
+/media/user/Transcend/OpenFWI/FlatVel_A/data/data2.npy	/media/user/Transcend/OpenFWI/FlatVel_A/model/model2.npy
+/media/user/Transcend/OpenFWI/CurveVel_A/data/data1.npy	/media/user/Transcend/OpenFWI/CurveVel_A/model/model1.npy
+/media/user/Transcend/OpenFWI/CurveVel_A/data/data2.npy	/media/user/Transcend/OpenFWI/CurveVel_A/model/model2.npy
+/media/emlab/Transcend/OpenFWI/FlatFault_A/seis2_1_32.npy	/media/emlab/Transcend/OpenFWI/FlatFault_A/vel2_1_32.npy
+/media/emlab/Transcend/OpenFWI/FlatFault_A/seis2_1_33.npy	/media/emlab/Transcend/OpenFWI/FlatFault_A/vel2_1_33.npy

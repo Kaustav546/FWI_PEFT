@@ -1,0 +1,12 @@
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data49.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model49.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data50.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model50.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data51.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model51.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data52.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model52.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data53.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model53.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data54.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model54.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data55.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model55.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data56.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model56.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data57.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model57.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data58.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model58.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data59.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model59.npy
+/media/user/Transcend/OpenFWI/CurveVel_B/data/data60.npy	/media/user/Transcend/OpenFWI/CurveVel_B/model/model60.npy
